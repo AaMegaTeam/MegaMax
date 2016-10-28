@@ -2,7 +2,7 @@ do
 
 function run(msg, matches)
 if msg.to.type == 'channel' and is_momod(msg) then
-  return 'TeleBeyond Commands List'..[[
+  return 'MegaMaximus Commands List'..[[
 -----***** دستورات مدیریتی سوپر گروه *****-----
 
 
@@ -78,10 +78,10 @@ if msg.to.type == 'channel' and is_momod(msg) then
 
 ***برای سفارش به ربات پیام رسان زیر مراجعه کنید... 
 با تشکر
-@SoLiD021Pv_Bot
+@teshne
 🔹🔸🔹🔸🔹🔸🔹🔸🔹🔸🔹
 -•-•-•-•-•-•-•-•-•-•-•-•-•-•-
-Team Channel : @BeyondTeam ]]
+Team Channel : @pedaret ]]
 end
 end
 return {
