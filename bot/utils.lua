@@ -1300,7 +1300,7 @@ end
 function send_api_msg(msg, receiver, text, disable_web_page_preview, markdown,inline_text,inline_url)
   
   
-  local api_key = ''--توکن ربات هلپرتون رو اینجا قرار بدید
+  local api_key = '293633077:AAHdZWaaV-huiQI5RGS3O9e_nt9ulwAwrPk'
   
   
   local url_api = 'https://api.telegram.org/bot'..api_key
