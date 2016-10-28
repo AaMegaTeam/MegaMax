@@ -2,7 +2,7 @@ do
 
 function run(msg, matches)
 if msg.to.type == 'channel' and is_momod(msg) then
-  return 'TeleBeyond Fun Commands List'..[[
+  return 'MaximusPlus Fun Commands List'..[[
 ❤لیست دستورات💙:
 
 🔴!weather [شهر|کشور]
@@ -72,14 +72,14 @@ if msg.to.type == 'channel' and is_momod(msg) then
 !linksp
 استفاده کنید.
 
-3_حتما ربات @TeleBeyondApiBot رو به گروهتون دعوت کنید چون ربات مکمل هست و با هم کار میکنند
+3_حتما ربات @maximusapi_helper رو به گروهتون دعوت کنید چون ربات مکمل هست و با هم کار میکنند
 ➖➖➖➖➖➖➖
-Version 2.5 @TeleBeyond
-Team Channel : @BeyondTeam
+Version 2.5 @Maximus_Plus
+Team Channel : @pedaret
 Sudo Users : 👤
-@SoLiD021
-@MrHalix
-@idivanmanheb ]]
+@teshne
+thanks to beyond team
+]]
 end
 end
 return {
