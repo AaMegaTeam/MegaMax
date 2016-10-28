@@ -3,7 +3,7 @@ local function run(msg)
 if is_momod(msg) then
 	local res = http.request(database.."joke.db")
 	local joke = res:split(",") 
-	local text = joke[math.random(#joke)]..'\n\n@BeyondTeam️'
+	local text = joke[math.random(#joke)]..'\n\n@pedaret'
   return reply_msg(msg.id, text, ok_cb, false)
 end
 end
