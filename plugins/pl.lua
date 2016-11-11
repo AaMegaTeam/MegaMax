@@ -68,7 +68,7 @@ local function list_plugins(only_enabled)
      -- text = text..v..'  '..status..'\n'
     end
   end
-  local text = text.."\nAll Plugins Reloaded\n\nTele Beyond Reloaded\n\n"..nact.." Plugins Enabled\n"..nsum.." Plugins Installed\n\n@pedaret"
+  local text = text.."\nAll Plugins Reloaded\n\nMega Maximus Reloaded\n\n"..nact.." Plugins Enabled\n"..nsum.." Plugins Installed\n\n@pedaret"
 return text
 end
 
